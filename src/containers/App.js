@@ -6,7 +6,7 @@ import Axios from "axios";
 import VideoDetail from "../components/video-detail";
 import Video from "../components/video";
 
-const API_KEY = "ee52528a3d2bfff0312880daeaee21b3";
+const API_KEY = "?????????";
 const API_END_POINT = "https://api.themoviedb.org/3/";
 const DEFAULT_TYPE_SEARCH = "discover";
 const DEFAULT_PARAM = "language=fr&include_adult=false";
